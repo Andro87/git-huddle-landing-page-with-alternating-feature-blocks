@@ -76,6 +76,7 @@ body{
 
 .introduction button{
     color: white;
+    background-color:  hsl(322, 100%, 66%);
     font-family: "open";
     font-weight: 700;
     border: none;
@@ -111,8 +112,8 @@ body{
 }
 
 .container--margin{
-    margin-top: 25px;
-    margin-bottom: 25px;
+    margin-top: 45px;
+    margin-bottom: 45px;
 }
 .container img{
     width: 350px; 

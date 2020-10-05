@@ -41,8 +41,8 @@ body{
 }
 
 .logo{
-    width: 180px;
-    height: auto;
+    width: auto;
+    height: 30px;
 }
 
 .header--top button{
@@ -137,7 +137,7 @@ body{
 
 
 .footer{
-    padding: 0px 17px 50px 17px;
+    padding: 0px 30px 50px 30px;
     background-color:hsl(192, 100%, 9%); ;
 }
 
@@ -257,8 +257,8 @@ svg path{
     }
 
     .logo{
-        width: 80px;
-        height: auto;
+        width: auto;
+        height: 20px;
     }
 
     .introduction{
@@ -268,7 +268,7 @@ svg path{
     }
 
     .introduction h1{
-        font-size: 2em;
+        font-size: 1.5em;
         margin-top: 0;
     }
 
@@ -323,6 +323,10 @@ svg path{
     .container img{
         width: 250px;
         order: 1; 
+    }
+
+    .footer{
+        padding: 0px 17px 50px 17px;
     }
 
     .box{
